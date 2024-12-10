@@ -75,11 +75,11 @@
 
 #### **使用方法**
 
-1. 将脚本文件（`remove_duplicate_pages.py`）放置在项目目录中。
+1. 将脚本文件（`remover.py`）放置在项目目录中。
 2. 确保输入的 PDF 文件与脚本位于同一目录，或者在脚本中指定 PDF 文件的完整路径。
 3. 运行脚本：
    ```bash
-   python remove_duplicate_pages.py
+   python remover.py
    ```
 
 ---
